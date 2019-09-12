@@ -1,0 +1,13 @@
+body {
+  background-color:darkblue;
+}
+
+
+/* this is where your resume would go */
+.content{
+  background-color:lightgray;
+  width:50%; /* set the width you want for the div */
+  margin: 0 auto; /* used to center the div */
+  text-align:left; /* left justifies the text inside of the div */
+  padding:20px;
+}
